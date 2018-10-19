@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6e3df71-fb48-4a0b-83d4-dde3a06d65a4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="motor@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="item.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/item.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="33" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login-controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/js/controller/login-controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1343">
+              <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mycart-controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/js/controller/mycart-controller.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="myjs.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/js/controller/myjs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="103" column="42" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterBOImpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/business/impl/RegisterBOImpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2091">
+              <caret line="131" column="20" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
+              <folding>
+                <element signature="e#6#41#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5457">
+              <caret line="321" column="43" selection-start-line="321" selection-start-column="43" selection-end-line="321" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemUtil.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/business/ItemUtil.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemBOImpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/business/impl/ItemBOImpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>customer</find>
+      <find>service</find>
+      <find>sfee</find>
+      <find>pid</find>
+      <find>$(&quot;#oid</find>
+      <find>lastpid</find>
+      <find>customers</find>
+      <find>addnewvehi</find>
+      <find>place</find>
+      <find>addnew</find>
+      <find>LOADPID</find>
+      <find>#addNew</find>
+      <find>vid</find>
+      <find>manage-cus</find>
+      <find>loadpid</find>
+      <find>$(&quot;#vid&quot;)</find>
+      <find>countrow</find>
+      <find>invoice</find>
+      <find>firstcol</find>
+      <find>ebay</find>
+      <find>window</find>
+      <find>index</find>
+      <find>My cart item</find>
+      <find>add</find>
+      <find>sign</find>
+      <find>signupbtn</find>
+      <find>$(&quot;#signupbtn</find>
+      <find>emailtxt</find>
+      <find>$sessionTrueSign</find>
+      <find>showSessionSign</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/business/impl/VehicledetailBOImpl.php" />
+        <option value="$PROJECT_DIR$/api/repository/impl/VehicleDetailRepositoryImpl.php" />
+        <option value="$PROJECT_DIR$/api/vehicledetail.php" />
+        <option value="$PROJECT_DIR$/api/business/InvoiceDetailBO.php" />
+        <option value="$PROJECT_DIR$/api/business/impl/InvoiceDetailBoImp.php" />
+        <option value="$PROJECT_DIR$/api/invoicedetail.php" />
+        <option value="$PROJECT_DIR$/api/repository/impl/InvoiceDetailRepositoryImpl.php" />
+        <option value="$PROJECT_DIR$/api/repository/impl/PartRepositoryImpl.php" />
+        <option value="$PROJECT_DIR$/api/repository/PartRepository.php" />
+        <option value="$PROJECT_DIR$/api/customers.php" />
+        <option value="$PROJECT_DIR$/manage-customers.html" />
+        <option value="$PROJECT_DIR$/api/customer.php" />
+        <option value="$PROJECT_DIR$/api/business/PartBO.php" />
+        <option value="$PROJECT_DIR$/api/business/VehicleBO.php" />
+        <option value="$PROJECT_DIR$/api/business/impl/VehicleBOImpl.php" />
+        <option value="$PROJECT_DIR$/api/vehicle.php" />
+        <option value="$PROJECT_DIR$/api/repository/impl/InvoiceRepositoryImpl.php" />
+        <option value="$PROJECT_DIR$/api/business/InvoiceBO.php" />
+        <option value="$PROJECT_DIR$/api/invoice.php" />
+        <option value="$PROJECT_DIR$/dist/js/controller/dashboard-controller.js" />
+        <option value="$PROJECT_DIR$/api/parts.php" />
+        <option value="$PROJECT_DIR$/api/business/impl/PartBOImpl.php" />
+        <option value="$PROJECT_DIR$/dist/js/controller/manage-customers-controller.js" />
+        <option value="$PROJECT_DIR$/manage-parts.html" />
+        <option value="$PROJECT_DIR$/api/business/impl/InvoiceBOImpl.php" />
+        <option value="$PROJECT_DIR$/dist/js/controller/manage-parts-controller.js" />
+        <option value="$PROJECT_DIR$/api/repository/impl/ItemRepositoryImpl.php" />
+        <option value="$PROJECT_DIR$/api/business/CustomerBO.php" />
+        <option value="$PROJECT_DIR$/api/business/impl/CustomerBOImpl.php" />
+        <option value="$PROJECT_DIR$/mycart.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/signup.html" />
+        <option value="$PROJECT_DIR$/dist/js/controller/signup-controller.js" />
+        <option value="$PROJECT_DIR$/api/repository/RegisterRepository.php" />
+        <option value="$PROJECT_DIR$/api/repository/impl/RegisterRepositoryImpl.php" />
+        <option value="$PROJECT_DIR$/api/business/LoginBO.php" />
+        <option value="$PROJECT_DIR$/api/login.php" />
+        <option value="$PROJECT_DIR$/api/business/RegisterBO.php" />
+        <option value="$PROJECT_DIR$/api/business/util/Item.php" />
+        <option value="$PROJECT_DIR$/api/business/util/ItemUtil.php" />
+        <option value="$PROJECT_DIR$/api/business/ItemBO.php" />
+        <option value="$PROJECT_DIR$/api/business/ItemUtil.php" />
+        <option value="$PROJECT_DIR$/dist/js/controller/mycart-controller.js" />
+        <option value="$PROJECT_DIR$/api/business/impl/ItemBOImpl.php" />
+        <option value="$PROJECT_DIR$/api/business/impl/RegisterBOImpl.php" />
+        <option value="$PROJECT_DIR$/api/item.php" />
+        <option value="$PROJECT_DIR$/api/register.php" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/dist/js/controller/login-controller.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/dist/js/controller/myjs.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="7790c39b-a678-44c0-bef3-ff35b3bf3562" name="localhost" />
+    </servers>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="width" value="1356" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ebay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ebay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ebay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ebay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ebay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ebay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ebay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ebay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ebay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ebay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ebay" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Hibernatefirst" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DEP\Web\Ebay\api\business" />
+      <recent name="E:\DEP\Web\Motor\dist\js\controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DEP\Web\Motor\dist\js\plugins\jquery" />
+      <recent name="E:\DEP\Web\Motor" />
+      <recent name="E:\DEP\Web\Motor\dist\img" />
+      <recent name="E:\DEP\Web\Motor\dist\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ebay" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" start_url="/ebay">
+      <method>
+        <option name="FtpUpload" enabled="true">
+          <server_id>1bb22a1a-1b3c-4d88-87d8-81224418e948</server_id>
+          <server_name>Apache Web Server</server_name>
+          <path>E:\DEP\Web\Ebay</path>
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6e3df71-fb48-4a0b-83d4-dde3a06d65a4" name="Default" comment="" />
+      <created>1532241482027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532241482027</updated>
+      <workItem from="1532241486675" duration="217657000" />
+      <workItem from="1532922665049" duration="25992000" />
+      <workItem from="1533358389341" duration="43000" />
+      <workItem from="1533361829674" duration="60535000" />
+      <workItem from="1533526432239" duration="101822000" />
+      <workItem from="1534131497829" duration="1915000" />
+      <workItem from="1534149863714" duration="972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="408936000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1356" height="768" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15597016" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.1358209" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32946146" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.31678987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="7" weight="0.16684265" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/business/VehicleDetailBO.php" />
+    <entry file="file://$PROJECT_DIR$/api/business/impl/VehicledetailBOImpl.php" />
+    <entry file="file://$PROJECT_DIR$/api/invoicedetail.php" />
+    <entry file="file://$PROJECT_DIR$/api/repository/impl/InvoiceDetailRepositoryImpl.php" />
+    <entry file="file://$PROJECT_DIR$/api/repository/impl/PartRepositoryImpl.php" />
+    <entry file="file://$PROJECT_DIR$/api/repository/PartRepository.php" />
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="699" column="9" selection-start-line="699" selection-start-column="9" selection-end-line="699" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/business/VehicleBO.php" />
+    <entry file="file://$PROJECT_DIR$/api/business/impl/VehicleBOImpl.php" />
+    <entry file="file://$PROJECT_DIR$/api/repository/vehicleDetailRepository.php" />
+    <entry file="file://$PROJECT_DIR$/api/repository/impl/VehicleDetailRepositoryImpl.php" />
+    <entry file="file://$PROJECT_DIR$/api/repository/impl/InvoiceRepositoryImpl.php" />
+    <entry file="file://$PROJECT_DIR$/api/business/InvoiceBO.php" />
+    <entry file="file://$PROJECT_DIR$/api/customers.php" />
+    <entry file="file://$PROJECT_DIR$/api/invoice.php" />
+    <entry file="file://$PROJECT_DIR$/api/parts.php" />
+    <entry file="file://$PROJECT_DIR$/api/vehicledetail.php" />
+    <entry file="file://$PROJECT_DIR$/api/vehicle.php" />
+    <entry file="file://$PROJECT_DIR$/dist/js/controller/manage-customers-controller.js" />
+    <entry file="file://$PROJECT_DIR$/manage-parts.html" />
+    <entry file="file://$PROJECT_DIR$/api/business/PartBO.php" />
+    <entry file="file://$PROJECT_DIR$/api/business/impl/InvoiceBOImpl.php" />
+    <entry file="file://$PROJECT_DIR$/manage-customers.html" />
+    <entry file="file://$PROJECT_DIR$/api/db/DBConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/business/impl/PartBOImpl.php" />
+    <entry file="file://$PROJECT_DIR$/api/business/impl/InvoiceDetailBoImp.php" />
+    <entry file="file://$PROJECT_DIR$/dist/js/controller/dashboard-controller.js" />
+    <entry file="file://$PROJECT_DIR$/dist/js/controller/manage-parts-controller.js" />
+    <entry file="file://$PROJECT_DIR$/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/controller/signup-controller.js" />
+    <entry file="file://$PROJECT_DIR$/api/repository/RegisterRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="22" selection-end-line="165" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/adminlte.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/business/impl/LoginBOImpl.php" />
+    <entry file="file://$PROJECT_DIR$/api/business/LoginBO.php" />
+    <entry file="file://$PROJECT_DIR$/api/login.php" />
+    <entry file="file://$PROJECT_DIR$/api/repository/impl/ItemRepositoryImpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="50" column="51" selection-start-line="49" selection-start-column="8" selection-end-line="50" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/repository/impl/RegisterRepositoryImpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/repository/ItemRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/business/ItemBO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/business/RegisterBO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/business/ItemUtil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/controller/mycart-controller.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5457">
+          <caret line="321" column="43" selection-start-line="321" selection-start-column="43" selection-end-line="321" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/business/impl/ItemBOImpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="81" column="1" selection-start-line="81" selection-start-column="1" selection-end-line="81" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/business/impl/RegisterBOImpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/controller/login-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="131" column="20" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
+          <folding>
+            <element signature="e#6#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/controller/myjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="103" column="42" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

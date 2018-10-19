@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ebay</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+          crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/semantic.min.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Wendy+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crete+Round|Wendy+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt"
+          crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+
+    <script>
+
+        //     var countries = ['France', 'UK', 'Spain','Belgium','Holland'],
+        //     select = document.getElementById( 'countries' );
+
+        // for( country in countries ) {
+
+        //     select.add( new Option( countries[country] ) );
+
+        // };
+
+    </script>
+
+
+    <style>
+        * {
+            /* font-family: 'Josefin Sans', sans-serif; */
+            font-family: 'Muli', sans-serif;
+
+
+        }
+
+        #close {
+            cursor: default;
+        }
+
+        #textv {
+            cursor: pointer;
+        }
+
+        #top {
+            height: 60px;
+            font-size: 30px;
+            /* text-align: center; */
+            background-color: #489ee7;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            position: static;
+            margin-bottom: 30px;
+
+        }
+
+        #top>div>span {
+            color: white;
+            font-family: 'Muli', sans-serif;
+            margin-left: 10px;
+
+
+            /* top: 50%;
+            left: 50%;
+            margin: auto; */
+
+        }
+
+        #placeo{
+            margin-top: 10px;
+            margin-left: 10px;
+        }
+
+
+        #firstcol{
+
+            float: left;
+            width: 25%; /* three boxes (use 25% for four, and 50% for two, etc) */
+            padding: 50px;
+        }
+        table{
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+        }
+        #zoomcol{
+            height: 850px;
+            width: 1340px;
+            margin-left: 500px;
+            background-color: red;
+            margin-top: -850px;
+        }
+
+
+
+    </style>
+
+
+
+
+</head>
+
+<body>
+
+
+
+<div id="wrapper" class="container-fluid">
+    <div class="row">
+        <div id="top" class="col col-xl-12">
+
+            <div id="placeo">
+                    <span>
+                        <i class="fab fa-accusoft"></i>&nbsp&nbspebay mycart</span>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div id="parentdiv" >
+        <div id="firstcol1">
+
+
+            <table class="table">
+
+                <thead><tr><td>My cart item</td></tr></thead>
+                <tbody id="mycarttbl"></tbody>
+
+            </table>
+
+
+
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+
+</div>
+
+
+
+<script src="dist/js/plugins/jquery/jquery.js"></script>
+<script src="dist/js/plugins/jquery/jquery.cookie.js"></script>
+<!-- jQuery UI 1.11.4 -->
+<script src="dist/js/plugins/jQueryUI/jquery-ui.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="dist/js/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+
+<script src="dist/js/controller/mycart-controller.js"></script>
+
+</body>
+
+</html>
